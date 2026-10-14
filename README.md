@@ -78,6 +78,7 @@ ecommerce-etl-pipeline/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ## Use Cases
 
