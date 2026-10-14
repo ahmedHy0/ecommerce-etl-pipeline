@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,email,city,country,created_at
+C001,Amina,Hassan,amina.hassan@example.com,Cairo,Egypt,2024-11-03T09:15:00
+C002,Omar,Farouk,omar.farouk@example.com,Alexandria,Egypt,2024-12-18T14:30:00
+C003,Layla,Nasser,layla.nasser@example.com,Giza,Egypt,2025-01-06T11:00:00

@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Insulated Water Bottle",
+    "category": "Outdoors",
+    "list_price": 24.99
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Wireless Keyboard",
+    "category": "Electronics",
+    "list_price": 89.00
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Desk Lamp",
+    "category": "Home",
+    "list_price": 59.50
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Cotton Tote Bag",
+    "category": "Accessories",
+    "list_price": 15.75
+  }
+]
